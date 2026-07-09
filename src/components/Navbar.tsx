@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
-import { Menu, X, Phone, Snowflake, Moon, Sun } from "lucide-react";
+import { Menu, X, Phone, Moon, Sun } from "lucide-react";
 import { useTheme } from "../context/ThemeContext";
 import { cn } from "../utils/cn";
 import logo from "../img/logo.png"; // apne folder structure ke hisaab se path change karein
